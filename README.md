@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./profile-banner.png" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Md Ruhul amin</h1>
 <h3 align="center">Building Modern Web Applications with TypeScript, React & Next.js | Exploring Web Security & Bug Bounty 🔐</h3>
 
