@@ -9,7 +9,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruhulaminislam&color=0E7C86)
 [![GitHub followers](https://img.shields.io/github/followers/MdRuhulAmin?style=social)](https://github.com/ruhulaminislam)
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCsyberstar?style=social)](https://www.youtube.com/c/@syber_star)
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCsyberstar?style=social)](https://www.youtube.com/@syber_star)
 
 *Crafting secure, scalable web applications | Exploring Web Security & Bug Bounty* 🔐
 
