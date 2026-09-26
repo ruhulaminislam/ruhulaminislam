@@ -234,9 +234,9 @@ I believe in:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdRuhulAmin&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhulaminislam&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdRuhulAmin&theme=tokyonight&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulaminislam&theme=tokyonight&layout=compact&hide_border=true)
 
 </div>
 
@@ -263,16 +263,8 @@ I'm always open to:
 - 🔗 **LinkedIn:** [Md Ruhul Amin](https://linkedin.com/in/md-ruhul-amin1)
 - 📺 **YouTube:** [@syber_star](https://www.youtube.com/c/@syber_star)
 
----
 
-## 📝 Latest Blog Posts
 
-- 🔐 [Understanding IDOR Vulnerabilities](https://blog.example.com)
-- 🚀 [Building Secure REST APIs with Node.js](https://blog.example.com)
-- ⚡ [React Performance Optimization Tips](https://blog.example.com)
-- 🐛 [Common Security Mistakes in Web Development](https://blog.example.com)
-
----
 
 ## 💡 Quick Facts About Me
 
