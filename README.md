@@ -66,7 +66,7 @@ Hakrawler • WhatWeb • Masscan • Shodan • Censys • ZoomEye
 ### Web Security Testing
 ```
 Burp Suite • Nuclei • ffuf • Gobuster • dirsearch 
-SQLmap • Corsy • Oralyzer • reconFTW
+SQLmap • Corsy  • reconFTW
 ```
 
 ### Development & Workflow
