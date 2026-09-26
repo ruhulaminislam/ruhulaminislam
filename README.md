@@ -50,7 +50,7 @@ I believe in the principle: **Learn → Build → Break → Understand → Secur
 ### Security Lab Practice
 
 Hands-on security training in **authorized lab environments**:
-- 🎥 [Port & Service Exploitation Lab - Video 01](https://www.youtube.com/playlist?list=PLlso4EPH05d6oRWez9CSkjEqxDv32m2Zp)
+- 🎥 [Port & Service Exploitation Lab - Video playlists](https://www.youtube.com/playlist?list=PLlso4EPH05d6oRWez9CSkjEqxDv32m2Zp)
 
 
 ---
