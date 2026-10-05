@@ -96,7 +96,6 @@ I have **hands-on practical exposure** to Web Security through authorized testin
 * XSS (Cross-Site Scripting)
 * SQL Injection fundamentals
 * IDOR (Insecure Direct Object Reference)
-* LFI (Local File Inclusion)
 * Open Redirect
 * Parameter Discovery
 * Reconnaissance
