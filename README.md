@@ -177,11 +177,11 @@ My previous authorized testing and security research experience includes:
 ## 🌐 Live Projects
 
 ### Vercel
-
+FitLog is a modern and responsive workout library that helps users explore exercises, view detailed workout information, save favorite workouts, and create a personalized workout plan.
 [View Live Project →](https://assignment-six-gamma-two.vercel.app/)
 
 ### Netlify
-
+DevStack is a simple web application that helps developers explore different technologies and build their own development stack.
 [View Live Project →](https://kaleidoscopic-unicorn-e5870f.netlify.app/)
 
 ---
