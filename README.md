@@ -177,11 +177,15 @@ My previous authorized testing and security research experience includes:
 ## 🌐 Live Projects
 
 ### Vercel
+
 FitLog is a modern and responsive workout library that helps users explore exercises, view detailed workout information, save favorite workouts, and create a personalized workout plan.
+
 [View Live Project →](https://assignment-six-gamma-two.vercel.app/)
 
 ### Netlify
+
 DevStack is a simple web application that helps developers explore different technologies and build their own development stack.
+
 [View Live Project →](https://kaleidoscopic-unicorn-e5870f.netlify.app/)
 
 ---
@@ -232,6 +236,40 @@ Real-World Development Experience
       ↓
 Deeper Web Security & Bug Hunting
 ```
+
+---
+
+## 📊 GitHub Statistics & Analysis
+
+### 🐍 GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ruhulaminislam/contribution-snake/output/grid.svg" alt="GitHub Contribution Snake" />
+</p>
+
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruhulaminislam&theme=swift&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Statistics" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulaminislam&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+### 🔥 Repository Stats & Streak
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ruhulaminislam&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" alt="Repository Stats" />
+
+  <img src="https://streak-stats.demolab.com/?user=ruhulaminislam&theme=swift&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Developer Quote" />
+</p>
 
 ---
 
