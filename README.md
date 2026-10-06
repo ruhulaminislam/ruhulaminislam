@@ -244,7 +244,10 @@ Deeper Web Security & Bug Hunting
 ### 🐍 GitHub Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ruhulaminislam/contribution-snake/output/grid.svg" alt="GitHub Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/ruhulaminislam/ruhulaminislam/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ### 📈 GitHub Statistics
