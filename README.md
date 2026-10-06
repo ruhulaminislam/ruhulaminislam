@@ -1,28 +1,40 @@
 <p align="center">
-  <img src="./ChatGPT Image Sep 26, 2026, 02_40_17 AM.png" width="100%" />
+  <img src="./ChatGPT%20Image%20Sep%2026,%202026,%2002_40_17%20AM.png" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Ruhul Amin</h1>
 
 <p align="center">
-  <strong>Full-Stack Web Development Learner</strong><br>
+  <strong>🚀 Full-Stack Web Development Learner</strong><br>
   <sub>TypeScript • React • Next.js • Web Security</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ruhulaminislam">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-ruhul-amin1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@syber_star">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:abmdruhulamin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://github.com/ruhulaminislam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/md-ruhul-amin1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@syber_star"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:abmdruhulamin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-live-projects">Projects</a> •
+  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
+  <a href="#-web-security--bug-hunting">Security</a> •
+  <a href="#-connect-with-me">Contact</a>
+</p>
+
+---
+
+## ⚡ Quick Snapshot
+
+| | |
+|---|---|
+| 🎯 **Primary Focus** | Full-Stack Web Development |
+| 💻 **Core Stack** | JavaScript · TypeScript · React · Next.js |
+| 🔐 **Additional Interest** | Web Security & Bug Hunting |
+| 🐧 **Environment** | Linux · Git · GitHub · VS Code |
+| 🌐 **Live Projects** | 2 (Vercel & Netlify) |
 
 ---
 
@@ -35,6 +47,52 @@ My current focus includes **JavaScript, TypeScript, React, and Next.js**.
 I also have previous hands-on exposure to **Web Security, Reconnaissance, Bug Hunting, and Security Labs**. After strengthening my Web Development foundation, I plan to continue developing my practical Web Security skills.
 
 I enjoy learning by understanding how things work, building projects, testing ideas, and improving through practice.
+
+---
+
+## 🌐 Live Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏋️ FitLog</h3>
+      <sub><img src="https://img.shields.io/badge/Hosted%20on-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /></sub>
+      <p>A modern and responsive workout library that helps users explore exercises, view detailed workout information, save favorite workouts, and create a personalized workout plan.</p>
+      <a href="https://assignment-six-gamma-two.vercel.app/"><b>🔗 View Live Project →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 DevStack</h3>
+      <sub><img src="https://img.shields.io/badge/Hosted%20on-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" /></sub>
+      <p>A simple web application that helps developers explore different technologies and build their own development stack.</p>
+      <a href="https://kaleidoscopic-unicorn-e5870f.netlify.app/"><b>🔗 View Live Project →</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular" alt="Web Development Stack" />
+  <img src="https://img.shields.io/badge/DaisyUI-1AD1C0?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
+</p>
+
+### 🧰 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Development Tools" />
+</p>
+
+### 🧱 Programming Foundation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
+</p>
+
+* **C Programming** — basic programming fundamentals, conditionals and loops
 
 ---
 
@@ -57,33 +115,17 @@ Additional Interest
 
 ---
 
-## 🛠️ Tech Stack
+## 📚 Currently Learning
 
-### Web Development
+- 🌐 Full-Stack Web Development
+- 🟨 JavaScript
+- 🔷 TypeScript
+- ⚛️ React
+- ▲ Next.js
+- 🏗️ Building practical web applications
+- 🧠 Improving problem-solving through JavaScript practice
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/DaisyUI-1AD1C0?style=flat-square&logo=daisyui&logoColor=white" alt="DaisyUI" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-
-### Programming Foundation
-
-* C Programming — basic programming fundamentals, conditionals and loops
+> 💡 My current priority is to strengthen my Web Development foundation through consistent practice and project building.
 
 ---
 
@@ -91,58 +133,39 @@ Additional Interest
 
 I have **hands-on practical exposure** to Web Security through authorized testing and security lab practice.
 
-### Security Topics
+### 🧪 Security Topics
 
-* XSS (Cross-Site Scripting)
-* SQL Injection fundamentals
-* IDOR (Insecure Direct Object Reference)
-* Open Redirect
-* Parameter Discovery
-* Reconnaissance
-* Business Logic Vulnerabilities
-* Port Scanning
-* Brute-force testing
+| | | |
+|---|---|---|
+| 🕷️ XSS (Cross-Site Scripting) | 💉 SQL Injection fundamentals | 🔑 IDOR (Insecure Direct Object Reference) |
+| ↪️ Open Redirect | 🔍 Parameter Discovery | 🛰️ Reconnaissance |
+| 🧠 Business Logic Vulnerabilities | 📡 Port Scanning | 🔨 Brute-force testing |
 
-> My primary focus is currently **Full-Stack Web Development**. I plan to return to deeper Web Security learning after strengthening my development foundation.
+> 🎯 My primary focus is currently **Full-Stack Web Development**. I plan to return to deeper Web Security learning after strengthening my development foundation.
 
----
-
-## 🛰️ Security Tools & Reconnaissance
+### 🛰️ Security Tools & Reconnaissance
 
 <p>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=flat-square&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logoColor=white" alt="Metasploit" />
 </p>
 
-**Reconnaissance**
+| Category | Tools |
+|---|---|
+| 🛰️ **Reconnaissance** | Nmap · Subfinder · Assetfinder · ReconFTW |
+| 🕸️ **Web Security Testing** | Burp Suite · Acunetix |
+| 🧪 **Security Labs** | Metasploit / `msfconsole` |
 
-* Nmap
-* Subfinder
-* Assetfinder
-* ReconFTW
-
-**Web Security Testing**
-
-* Burp Suite
-* Acunetix
-
-**Security Labs**
-
-* Metasploit / `msfconsole`
-
----
-
-## 🧪 Security Labs & Hands-on Practice
+### 🎥 Security Labs & Hands-on Practice
 
 I have practiced vulnerable-machine labs and Web Security exercises using security testing tools.
 
 My practical security learning includes hands-on lab work with **Metasploit**, reconnaissance tools, and Web Security testing techniques.
 
-🎥 **Security Lab Videos:**
-[YouTube — Syber Star](https://www.youtube.com/@syber_star)
-
 I have published **3 videos** documenting part of my Metasploit lab practice.
+
+[![Watch on YouTube](https://img.shields.io/badge/▶%20Watch%20Security%20Lab%20Videos-Syber%20Star-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@syber_star)
 
 ---
 
@@ -150,57 +173,14 @@ I have published **3 videos** documenting part of my Metasploit lab practice.
 
 My previous authorized testing and security research experience includes:
 
-### Open Redirect
+| # | Finding | Details |
+|---|---|---|
+| 1️⃣ | **↪️ Open Redirect** | Identified an Open Redirect issue on an Amazon-related target. The issue was fixed before I could submit a report. |
+| 2️⃣ | **🧠 Business Logic Issue** | Identified a business-logic issue during authorized testing. The testing demonstrated that a product price could be manipulated within the tested flow. |
+| 3️⃣ | **🔑 IDOR** | Identified an IDOR issue on an authorized testing target. The issue exposed admin-related information within the tested application. |
+| 4️⃣ | **🖥️ Frontend/Admin Structure Observation** | Observed admin-related/backend structure exposed through frontend information. Further verification showed that actual backend/admin access was **not obtained**. |
 
-* Identified an Open Redirect issue on an Amazon-related target.
-* The issue was fixed before I could submit a report.
-
-### Business Logic Issue
-
-* Identified a business-logic issue during authorized testing.
-* The testing demonstrated that a product price could be manipulated within the tested flow.
-
-### IDOR
-
-* Identified an IDOR issue on an authorized testing target.
-* The issue exposed admin-related information within the tested application.
-
-### Frontend/Admin Structure Observation
-
-* Observed admin-related/backend structure exposed through frontend information.
-* Further verification showed that actual backend/admin access was **not obtained**.
-
-> Security findings listed here are based on authorized testing and practical learning experience. Sensitive target information is intentionally omitted.
-
----
-
-## 🌐 Live Projects
-
-### Vercel
-
-FitLog is a modern and responsive workout library that helps users explore exercises, view detailed workout information, save favorite workouts, and create a personalized workout plan.
-
-[View Live Project →](https://assignment-six-gamma-two.vercel.app/)
-
-### Netlify
-
-DevStack is a simple web application that helps developers explore different technologies and build their own development stack.
-
-[View Live Project →](https://kaleidoscopic-unicorn-e5870f.netlify.app/)
-
----
-
-## 📚 Currently Learning
-
-* Full-Stack Web Development
-* JavaScript
-* TypeScript
-* React
-* Next.js
-* Building practical web applications
-* Improving problem-solving through JavaScript practice
-
-My current priority is to strengthen my Web Development foundation through consistent practice and project building.
+> 🔒 Security findings listed here are based on authorized testing and practical learning experience. Sensitive target information is intentionally omitted.
 
 ---
 
@@ -208,12 +188,9 @@ My current priority is to strengthen my Web Development foundation through consi
 
 I currently use **Linux** as my primary operating system for development and security learning.
 
-I work with:
-
-* Linux
-* Git
-* GitHub
-* VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" alt="Environment" />
+</p>
 
 ---
 
@@ -254,53 +231,40 @@ Deeper Web Security & Bug Hunting
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ruhulaminislam&theme=swift&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Statistics" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulaminislam&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ### 🔥 Repository Stats & Streak
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ruhulaminislam&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" alt="Repository Stats" />
+  <a href="https://github.com/ruhulaminislam?tab=followers"><img src="https://img.shields.io/github/followers/ruhulaminislam?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" alt="GitHub Followers" /></a>
+  <a href="https://github.com/ruhulaminislam?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20All-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ruhulaminislam&style=for-the-badge&label=Profile%20Views&color=1AD1C0" alt="Profile Views" />
+</p>
 
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=ruhulaminislam&theme=swift&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 💡 Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Developer Quote" />
-</p>
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/ruhulaminislam">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-ruhul-amin1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@syber_star">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://x.com/md_amin25018">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100086594888625">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:abmdruhulamin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://github.com/ruhulaminislam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/md-ruhul-amin1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@syber_star"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://x.com/md_amin25018"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100086594888625"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:abmdruhulamin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Learning • Building • Practicing • Improving</sub>
+  <sub>📖 Learning • 🛠️ Building • 🧪 Practicing • 📈 Improving</sub>
 </p>
